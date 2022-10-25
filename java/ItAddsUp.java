@@ -37,7 +37,7 @@ public class ItAddsUp {
         }
     }
 }
-// We Create a private class so we can store the pairs
+// We Create a private class so we can store the pairs in a list
 class Pair {
     int a;
     int b;
